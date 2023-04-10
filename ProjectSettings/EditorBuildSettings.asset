@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: 43150d8dea6bcef43a13fc4c6fd9e1e9
+  - enabled: 1
+    path: Assets/Scenes/Tutorial.unity
+    guid: 2ef8754fc74d04d4c891e446848da4f6
+  - enabled: 1
+    path: Assets/Scenes/DarkForest.unity
+    guid: 38c73345c1d1adf41b5ac048f395104f
+  - enabled: 1
+    path: Assets/Scenes/WinningScreen.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/SnakeJumpscare.unity
+    guid: 0a487af7e5acb644e9d123b9deac153b
+  - enabled: 1
+    path: Assets/Scenes/OwlJumpscare.unity
+    guid: fba2e62b1dfb5f246b7d387ac1812a67
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 30ce077992a601a4d82aa1c974aa4549, type: 2}
